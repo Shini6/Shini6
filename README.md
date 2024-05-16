@@ -50,4 +50,4 @@ tags={item._tags}
 <<< Layout>
 47
 48
-export default Dashboard
+export default Dashboar
