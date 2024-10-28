@@ -2,7 +2,7 @@
 
 ## Who wrote GRR and Why?
 
-GRR started at Google as a 20% project and gained in popularity until it
+### GRR started at Google as a 20% project and gained in popularity until it
 became fully-supported and open sourced. The primary motivation was that
 we felt the state of the art for incident response was going in the
 wrong direction, and wasn’t going to meet our cross platform,
